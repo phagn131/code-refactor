@@ -1,37 +1,39 @@
 # 📖 Refactor a website to make it more accessible to viewers and readers, more efficent semantically in HTML and CSS, and include comments to facilitate developer readability.
 
-* AS a marketing agency I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines 
+- AS a marketing agency I WANT a codebase that follows accessibility standards
+  SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
-* GIVEN a webpage meets accessibility standards.
+- GIVEN a webpage meets accessibility standards.
 
-* WHEN I view the source code
+- WHEN I view the source code
 
-* THEN I find semantic HTML elements
+- THEN I find semantic HTML elements
 
-* WHEN I view the structure of the HTML elements
+- WHEN I view the structure of the HTML elements
 
-* THEN I find that the elements follow a logical structure independent of styling and positioning
+- THEN I find that the elements follow a logical structure independent of styling and positioning
 
-* WHEN I view the image elements
+- WHEN I view the image elements
 
-* THEN I find accessible alt attributes
- 
-* WHEN I view the heading attributes
+- THEN I find accessible alt attributes
 
-* THEN they fall in sequential order
+- WHEN I view the heading attributes
 
-* WHEN I view the title element
+- THEN they fall in sequential order
 
-* THEN I find a concise, descriptive title
+- WHEN I view the title element
 
+- THEN I find a concise, descriptive title
 
 ## 📝 Notes
-* It is done when the following (2) items are submitted:
-   1. The URL of the deployed application.
-   2. The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+
+- It is done when the following (2) items are submitted:
+  1.  The URL of the deployed application. 
+      https://phagn131.github.io/code-refactor/
+  2.  The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+      https://github.com/phagn131/code-refactor.git (Links to an external site.)
 
 ## Assets
 
