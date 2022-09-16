@@ -33,7 +33,7 @@
   1.  The URL of the deployed application. 
       https://phagn131.github.io/code-refactor/
   2.  The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-      https://github.com/phagn131/code-refactor.git (Links to an external site.)
+      https://github.com/phagn131/code-refactor
 
 ## Assets
 
